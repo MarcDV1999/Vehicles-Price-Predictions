@@ -12,5 +12,5 @@ For more information about the project, see the following document:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MarcDV1999/4-en-Ratlla/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MarcDV1999/Vehicles-Price-Predictions/blob/main/LICENSE) file for details
 
