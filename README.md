@@ -9,6 +9,7 @@ For more information about the project, see the following document:
 ## Autor
 
 - **Marc Domènech i Vila** - *Initial work* - [MarcDV1999](https://github.com/MarcDV1999)
+- **David Bolea**
 
 ## License
 
