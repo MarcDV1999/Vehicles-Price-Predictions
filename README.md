@@ -6,7 +6,7 @@ For more information about the project, see the following document:
 
 - [Report](https://github.com/MarcDV1999/Vehicles-Price-Predictions/blob/main/Report.pdf)
 
-## Autor
+## Authors
 
 - **Marc Domènech i Vila** - *Initial work* - [MarcDV1999](https://github.com/MarcDV1999)
 - **David Bolea**
